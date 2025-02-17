@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice_2.frmcalculatrice2.resources
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice_2.Resources.resources
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.AssemblyInfo.vb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\bin\Debug\net8.0-windows\calculatrice 2.exe
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\bin\Debug\net8.0-windows\calculatrice 2.deps.json
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\bin\Debug\net8.0-windows\calculatrice 2.runtimeconfig.json
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\bin\Debug\net8.0-windows\calculatrice 2.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\bin\Debug\net8.0-windows\calculatrice 2.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\refint\calculatrice 2.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\calculatrice 2.genruntimeconfig.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice 2\obj\Debug\net8.0-windows\ref\calculatrice 2.dll
