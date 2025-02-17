@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.Resources.resources
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.pizza.resources
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.AssemblyInfo.vb
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\bin\Debug\net8.0-windows\pizza.exe
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\bin\Debug\net8.0-windows\pizza.deps.json
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\bin\Debug\net8.0-windows\pizza.runtimeconfig.json
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\bin\Debug\net8.0-windows\pizza.dll
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\bin\Debug\net8.0-windows\pizza.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.dll
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\refint\pizza.dll
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\pizza.genruntimeconfig.cache
+C:\Users\ACER\Desktop\programation evenmentielle\pizza\obj\Debug\net8.0-windows\ref\pizza.dll
