@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.frmcalculatrice.resources
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.AssemblyInfo.vb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\bin\Debug\net8.0-windows\calculatrice.exe
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\bin\Debug\net8.0-windows\calculatrice.deps.json
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\bin\Debug\net8.0-windows\calculatrice.runtimeconfig.json
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\bin\Debug\net8.0-windows\calculatrice.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\bin\Debug\net8.0-windows\calculatrice.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.Resources.resources
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\refint\calculatrice.dll
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.pdb
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\calculatrice.genruntimeconfig.cache
+C:\Users\ACER\Desktop\programation evenmentielle\calculatrice\obj\Debug\net8.0-windows\ref\calculatrice.dll
